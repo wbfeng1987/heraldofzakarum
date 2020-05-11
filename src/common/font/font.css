@@ -1,0 +1,6 @@
+@font-face {  
+ font-family: 'exocetH';  //重命名字体名
+ src: url('exocetH.ttf');  //引入字体
+ font-weight: normal;  
+ font-style: normal;  
+}
