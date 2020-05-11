@@ -33,7 +33,7 @@ handler.on('push', function(event) {
         event.payload.repository.name,
         event.payload.ref)
 
-    runCommand('sh', ['./updatePages.sh'], function(txt) {
+    runCommand('sh', ['./updateApp.sh'], function(txt) {
         console.log(txt)
     });
 
