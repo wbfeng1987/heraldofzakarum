@@ -1,7 +1,20 @@
 <template>
   <div id="app">
-    <img src="./assets/herald-of-zakarum.png">
-    <h1 id="desc">Gilded Shield</h1>
+    <nav>
+      <div class="container">
+        <b-button-group>
+          <router-link to="/">
+            <b-button variant="primary">Home</b-button>
+          </router-link>
+          <router-link to="/smash">
+            <b-button variant="danger">Smash!</b-button>
+          </router-link>
+          <router-link to="/comment">
+            <b-button variant="info">Taunt!</b-button>
+          </router-link>
+        </b-button-group>
+      </div>
+    </nav>
     <router-view/>
   </div>
 </template>
@@ -28,8 +41,11 @@ export default {
     font-weight: normal;  
     font-style: normal;  
   };
-  #desc {
+  .d2style {
     font-family: exocetH;
     color: #908858
+  };
+  .container {
+    padding-bottom: 50px;
   };
 </style>

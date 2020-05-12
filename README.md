@@ -4,8 +4,7 @@
 
 ## A tribute to one of my favorate items in Diablo 2
 
-> 
-<center>Herald of Zakarum<br>
+><center>Herald of Zakarum<br>
 Gilded Shield<br>
 Defense: 422-507<br>
 Required Level: 42<br>
