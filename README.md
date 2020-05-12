@@ -1,21 +1,25 @@
-# heraldofzakarum
+# My App Gadget
 
-> A Vue.js project
+> [https://www.heraldofzakarum.tk/](https://www.heraldofzakarum.tk/)
 
-## Build Setup
+## A tribute to one of my favorate items in Diablo 2
 
-``` bash
-# install dependencies
-npm install
+Herald of Zakarum
+<Gilded Shield>
+Defense: 422-507
+Required Level: 42
+Required Strength: 89
+Chance To Block: 82%
+Smite Damage: 20 to 28
+Durability: 50
+(Paladin Only)
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
++150-200% Enhanced Defense
+30% Increased Chance Of Block
+30% Faster Block Rate
+20% Bonus To Attack Rating
++20 To Strength
++20 To Vitality
+All Resistances +50
++2 To Paladin Skill Levels
++2 To Combat Skills (Paladin Only)
