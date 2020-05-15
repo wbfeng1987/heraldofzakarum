@@ -1,11 +1,11 @@
 # My App Gadget
 
-> [https://www.heraldofzakarum.tk/](https://www.heraldofzakarum.tk/)
+> [https://heraldofzakarum.tk/](https://heraldofzakarum.tk/)
 
 ## A tribute to one of my favorate items in Diablo 2
 
 ><center>Herald of Zakarum<br>
->Gilded Shield<br>
+Gilded Shield<br>
 Defense: 422-507<br>
 Required Level: 42<br>
 Required Strength: 89<br>
