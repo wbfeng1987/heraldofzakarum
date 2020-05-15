@@ -5,16 +5,6 @@ import Smash from '@/pages/Smash'
 import Comment from '@/pages/Comment'
 
 
-import { BootstrapVue, BootstrapVueIcons, IconsPlugin } from 'bootstrap-vue'
-import 'bootstrap/dist/css/bootstrap.css'
-import 'bootstrap-vue/dist/bootstrap-vue.css'
-import 'bootstrap-vue/dist/bootstrap-vue-icons.min.css'
-
-Vue.use(BootstrapVue)
-Vue.use(IconsPlugin)
-Vue.use(BootstrapVueIcons)
-
-
 Vue.use(Router)
 
 export default new Router({

@@ -7,6 +7,16 @@ import router from './router'
 // import 'bootstrap/dist/css/bootstrap.css'
 // import 'bootstrap-vue/dist/bootstrap-vue.css'
 
+
+import { BootstrapVue, BootstrapVueIcons, IconsPlugin } from 'bootstrap-vue'
+import 'bootstrap/dist/css/bootstrap.css'
+import 'bootstrap-vue/dist/bootstrap-vue.css'
+import 'bootstrap-vue/dist/bootstrap-vue-icons.min.css'
+
+Vue.use(BootstrapVue)
+Vue.use(IconsPlugin)
+Vue.use(BootstrapVueIcons)
+
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */
